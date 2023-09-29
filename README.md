@@ -1,3 +1,4 @@
+<img src="header.png">
 <h1 align="center">Oi!!👋 Kabera Clapton here!!</h1>
 <h3 align="center">Passionate Web Developer</h3>
 
